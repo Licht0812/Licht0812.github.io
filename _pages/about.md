@@ -12,7 +12,7 @@ Welcome to my personal homepage. I am a PhD student at University of Chinese Aca
 ## <i class="fas fa-graduation-cap"></i> Education
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 0px;">
-  <b>University of Chinese Academy of Sciences,Beijing</b>
+  <b>University of Chinese Academy of Sciences, Beijing</b>
   <i>2023 - Present</i>
 </div>
 <div style="color: #666; padding-bottom: 15px;">
@@ -20,7 +20,7 @@ Welcome to my personal homepage. I am a PhD student at University of Chinese Aca
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 0px;">
-  <b>Jilin University,Changchun</b>
+  <b>Jilin University, Changchun</b>
   <i>2019 - 2023</i>
 </div>
 <div style="color: #666; padding-bottom: 15px;">
