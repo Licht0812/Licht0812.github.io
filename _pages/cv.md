@@ -13,35 +13,37 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 0.2em;">
   <span style="font-size: 1.15em;"><b>University of Chinese Academy of Sciences</b>, Beijing, China</span>
-  <span><i>Expected 20xx</i></span>
+  <span><i>2023 - Present</i></span>
 </div>
 <div style="padding-bottom: 1em; padding-left: 1em;">
-  Ph.D. in Chemical Sciences (Machine Learning and AI focus)
+  Ph.D. in Computer Science (Machine Learning and AI for Chemistry)
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 0.2em;">
-  <span style="font-size: 1.15em;"><b>Your Previous University</b>, City, Country</span>
-  <span><i>20xx - 20xx</i></span>
+  <span style="font-size: 1.15em;"><b>Jilin University</b>, City, Country</span>
+  <span><i>2019 - 2023</i></span>
 </div>
 <div style="padding-bottom: 1em; padding-left: 1em;">
-  B.S. in Chemistry
+  B.S. in Measurement & Control Technology and Instrument
 </div>
 
 <hr />
 
-## <i class="fas fa-flask"></i> Research Experience
+{% comment %}
+## <i class="fas fa-briefcase"></i> Experience
 
-<div style="display: flex; justify-content: space-between; margin-bottom: 0.2em;">
-  <span style="font-size: 1.15em;"><b>Research Assistant</b></span>
-  <span><i>20xx - Present</i></span>
+<div style="display: flex; justify-content: space-between; margin-bottom: 0px;">
+  <b>Research Assistant</b>
+  <i>20xx - Present</i>
 </div>
-<div style="padding-bottom: 1em; padding-left: 1em;">
-  <i>University of Chinese Academy of Sciences</i><br>
+<div style="padding-bottom: 15px;">
+  <i style="color: #666;">University of Chinese Academy of Sciences</i><br>
   <ul>
-    <li>Developing novel machine learning methods to solve problems in chemistry and materials science.</li>
-    <li>Applying AI models to accelerate the discovery of new materials and drugs.</li>
+    <li>Research topic or project responsibility description goes here.</li>
+    <li>Applying AI models to accelerate the discovery in chemistry.</li>
   </ul>
 </div>
+{% endcomment %}
 
 <hr />
 
@@ -53,8 +55,10 @@ redirect_from:
 
 <hr />
 
+{% comment %}
 ## <i class="fas fa-cogs"></i> Skills
 
 * **Programming Languages:** Python, C++, etc.
-* **Tools & Frameworks:** PyTorch, TensorFlow, Git, Linux
+* **Tools & Frameworks:** PyTorch, Git, Linux
 * **Languages:** Chinese (Native), English (Fluent)
+{% endcomment %}
