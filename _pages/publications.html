@@ -1,0 +1,20 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% assign postsByYear = site.publications | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+<details open>
+  <summary style="font-size: 1.5em; font-weight: bold; cursor: pointer; margin-block-start: 1em; margin-block-end: 1em; padding: 5px; background-color: var(--global-border-color); border-radius: 5px;">
+    {{ year.name }}
+  </summary>
+  <div style="padding-left: 1.5em; margin-bottom: 2em;">
+  {% for post in year.items %}
+    {% include archive-single.html %}
+  {% endfor %}
+  </div>
+</details>
+{% endfor %}
