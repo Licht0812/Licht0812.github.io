@@ -20,7 +20,7 @@ redirect_from:
 </div>
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 0.2em;">
-  <span style="font-size: 1.15em;"><b>Jilin University</b>, City, Country</span>
+  <span style="font-size: 1.15em;"><b>Jilin University</b>, Changchun, China</span>
   <span><i>2019 - 2023</i></span>
 </div>
 <div style="padding-bottom: 1em; padding-left: 1em;">
