@@ -13,7 +13,7 @@ Welcome to my personal homepage. I am a PhD student at University of Chinese Aca
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 0px;">
   <b>University of Chinese Academy of Sciences,Beijing</b>
-  <i>Expected 2023</i>
+  <i>2023 - Present</i>
 </div>
 <div style="color: #666; padding-bottom: 15px;">
   Ph.D. in Computer Science
